@@ -8,7 +8,8 @@ import Display from './Display'
 import Startbutton from './StartButton'
 import { StyledTetrisWrapper, StyledTetris } from './Styles/StyledTetris'
 
-const Tetris = () => {
+
+const Tetris = () => {  
     return (
         <StyledTetrisWrapper>
             <StyledTetris>
